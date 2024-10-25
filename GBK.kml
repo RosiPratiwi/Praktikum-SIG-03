@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>GBK</name>
+    <NetworkLink>
+      <name><![CDATA[Green's Area (DKI Jakarta)]]></name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1sqnC_uJOhiVevyw_eQtiiGks4u_1kXs&lid=Yt5qaQMTA-k]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
